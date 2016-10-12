@@ -1,0 +1,8 @@
+language: go
+go: 1.7
+install:
+  - go get -u github.com/alecthomas/gometalinter
+  - gometalinter --install
+script:
+  - make
+  - make lint
