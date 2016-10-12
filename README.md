@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/glestaris/passwduser)](https://goreportcard.com/report/glestaris/passwduser)
 [![Build Status](https://travis-ci.org/glestaris/passwduser.svg?branch=master)](https://travis-ci.org/glestaris/passwduser)
 
 # A cgo-free implementation of os/user that parses /etc/passwd
