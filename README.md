@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/glestaris/passwduser.svg?branch=master)](https://travis-ci.org/glestaris/passwduser)
+
 # A cgo-free implementation of os/user that parses /etc/passwd
 
 Golang's `os/user` is a great package that provides an API to access
